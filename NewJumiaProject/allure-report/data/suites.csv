@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Dec 08 15:26:52 WAT 2022","Thu Dec 08 15:27:05 WAT 2022","12690","Default Suite","NewJumiaProject","JumiaWebTest","JumiaWebTest","blankFields","blankFields",""
+"passed","Thu Dec 08 15:25:08 WAT 2022","Thu Dec 08 15:25:42 WAT 2022","34080","Default Suite","NewJumiaProject","JumiaWebTest","JumiaWebTest","correctSignin","correctSignin",""
+"passed","Thu Dec 08 15:26:20 WAT 2022","Thu Dec 08 15:26:52 WAT 2022","32377","Default Suite","NewJumiaProject","JumiaWebTest","JumiaWebTest","wrongPassword","wrongPassword",""
+"passed","Thu Dec 08 15:25:43 WAT 2022","Thu Dec 08 15:26:20 WAT 2022","37517","Default Suite","NewJumiaProject","JumiaWebTest","JumiaWebTest","wrongUsername","wrongUsername",""
